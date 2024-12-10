@@ -24,7 +24,7 @@ def create_table(db):
 
 
 def read_items():
-    with open(r'lab_4\task_4_solve_result\_product_data.csv', 'r+', encoding='utf-8') as file:
+    with open('./task_4_solve_result/_product_data.csv', 'r+', encoding='utf-8') as file:
         reader = csv.reader(file, delimiter=';')
         reader.__next__()
         items = []
@@ -66,7 +66,7 @@ def insert_data(db, data):
 
 
 def read_updates():
-    with open(r'lab_4\task_4_solve_result\_update_data.msgpack', 'rb') as file:
+    with open('./task_4_solve_result/_update_data.msgpack', 'rb') as file:
         updates = msgpack.unpack(file)
     return updates
 
@@ -216,9 +216,9 @@ updates = read_updates()
 
 process_updates(db, updates)
 
-save_items(r'lab_4\task_4_solve_result\task_4_most_updatable.json', first_query(db))
-save_items(r'lab_4\task_4_solve_result\task_4_quantity_stats.json', second_query(db))
-save_items(r'lab_4\task_4_solve_result\task_4_views_stats.json', third_query(db))
-save_items(r'lab_4\task_4_solve_result\task_4_city_freq.json', fourth_query(db))
+save_items('./task_4_solve_result/task_4_most_updatable.json', first_query(db))
+save_items('./task_4_solve_result/task_4_quantity_stats.json', second_query(db))
+save_items('./task_4_solve_result/task_4_views_stats.json', third_query(db))
+save_items('./task_4_solve_result/task_4_city_freq.json', fourth_query(db))
 
 db.close()
