@@ -2,7 +2,7 @@ import json
 from db_connect import connect_to_database
 
 def load_text():
-    with open('task_1_solve_result/item.text', 'r', encoding='utf-8') as file:
+    with open('./task_1_solve_result/item.text', 'r', encoding='utf-8') as file:
         return file.read().strip()
 
 
@@ -135,9 +135,9 @@ create_table(db)
 insert_data(db, data_to_insert)
 db.commit()
 
-save_items('task_1_solve_result/task_1_sorted_prob_price.json', first_query(db))
-save_items('task_1_solve_result/task_1_stats_views.json', second_query(db))
-save_items('task_1_solve_result/task_1_freq_city.json', third_query(db))
-save_items('task_1_solve_result/task_1_year_filtered.json', fourth_query(db))
+save_items('./task_1_solve_result/task_1_sorted_prob_price.json', first_query(db))
+save_items('./task_1_solve_result/task_1_stats_views.json', second_query(db))
+save_items('./task_1_solve_result/task_1_freq_city.json', third_query(db))
+save_items('./task_1_solve_result/task_1_year_filtered.json', fourth_query(db))
 
 db.close()
