@@ -2,7 +2,7 @@ import json
 from db_connect import connect_to_database
 
 def read_json():
-    with open('task_2_solve_result/subitem.json', 'r', encoding='utf-8') as file:
+    with open('./task_2_solve_result/subitem.json', 'r', encoding='utf-8') as file:
         return json.load(file)
 
 
@@ -86,8 +86,8 @@ create_table(db)
 insert_data(db, data)
 db.commit()
 
-save_items('task_2_solve_result/task_2_query_1', first_query(db))
-save_items('task_2_solve_result/task_2_query_2', second_query(db))
-save_items('task_2_solve_result/task_2_query_3', third_query(db))
+save_items('./task_2_solve_result/task_2_query_1.json', first_query(db))
+save_items('./task_2_solve_result/task_2_query_2.json', second_query(db))
+save_items('./task_2_solve_result/task_2_query_3.json', third_query(db))
 
 db.close()
