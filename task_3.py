@@ -5,7 +5,7 @@ from db_connect import connect_to_database
 
 def read_csv():
     items = []
-    with open('task_3_solve_result/_part_1.csv', 'r', encoding='utf-8') as file:
+    with open('./task_3_solve_result/_part_1.csv', 'r', encoding='utf-8') as file:
         data = csv.reader(file, delimiter=';')
         data.__next__()
         for row in data:
@@ -27,7 +27,7 @@ def read_csv():
 
 def read_json():
     items = []
-    with open('task_3_solve_result/_part_2.json', 'r', encoding='utf-8') as file:
+    with open('./task_3_solve_result/_part_2.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
         for row in data:
             if len(row) == 0:
@@ -141,7 +141,7 @@ create_table(db)
 insert_data(db, data_csv)
 insert_data(db, data_json)
 
-save_items('task_3_solve_result/task_3_filtered.json', first_query(db))
-save_items('task_3_solve_result/task_3_stats.json', second_query(db))
-save_items('task_3_solve_result/task_3_freq.json', third_query(db))
-save_items('task_3_solve_result/task_3_ordered_and_filtered.json', fourth_query(db))
+save_items('./task_3_solve_result/task_3_filtered.json', first_query(db))
+save_items('./task_3_solve_result/task_3_stats.json', second_query(db))
+save_items('./task_3_solve_result/task_3_freq.json', third_query(db))
+save_items('./task_3_solve_result/task_3_ordered_and_filtered.json', fourth_query(db))
