@@ -1,0 +1,812 @@
+[
+ {
+  "id": 643,
+  "artist": "2 Chainz",
+  "song": "It's A Vibe",
+  "duration_ms": 210200,
+  "year": 2017,
+  "tempo": 73.003,
+  "genre": "hip hop, pop"
+ },
+ {
+  "id": 1418,
+  "artist": "2 Chainz",
+  "song": "We Own It (Fast & Furious)",
+  "duration_ms": 227906,
+  "year": 2013,
+  "tempo": 171.999,
+  "genre": "hip hop, pop"
+ },
+ {
+  "id": 685,
+  "artist": "21 Savage",
+  "song": "Bank Account",
+  "duration_ms": 220306,
+  "year": 2017,
+  "tempo": 75.016,
+  "genre": "hip hop"
+ },
+ {
+  "id": 1476,
+  "artist": "21 Savage",
+  "song": "a lot",
+  "duration_ms": 288624,
+  "year": 2018,
+  "tempo": 145.972,
+  "genre": "hip hop"
+ },
+ {
+  "id": 493,
+  "artist": "3 Doors Down",
+  "song": "Let Me Go",
+  "duration_ms": 243053,
+  "year": 2012,
+  "tempo": 92.004,
+  "genre": "pop, rock, metal"
+ },
+ {
+  "id": 1388,
+  "artist": "3 Doors Down",
+  "song": "It's Not My Time",
+  "duration_ms": 241960,
+  "year": 2008,
+  "tempo": 127.962,
+  "genre": "pop, rock, metal"
+ },
+ {
+  "id": 618,
+  "artist": "3OH!3",
+  "song": "My First Kiss (feat. Ke$ha)",
+  "duration_ms": 192440,
+  "year": 2010,
+  "tempo": 138.021,
+  "genre": "hip hop, pop, rock"
+ },
+ {
+  "id": 1291,
+  "artist": "3OH!3",
+  "song": "DONTTRUSTME",
+  "duration_ms": 192573,
+  "year": 2008,
+  "tempo": 130.012,
+  "genre": "hip hop, pop, rock"
+ },
+ {
+  "id": 1502,
+  "artist": "3OH!3",
+  "song": "Starstrukk",
+  "duration_ms": 203093,
+  "year": 2010,
+  "tempo": 139.896,
+  "genre": "hip hop, pop, rock"
+ },
+ {
+  "id": 1033,
+  "artist": "5 Seconds of Summer",
+  "song": "Easier",
+  "duration_ms": 157492,
+  "year": 2019,
+  "tempo": 175.813,
+  "genre": "pop"
+ },
+ {
+  "id": 1130,
+  "artist": "5 Seconds of Summer",
+  "song": "She Looks So Perfect",
+  "duration_ms": 202496,
+  "year": 2014,
+  "tempo": 160.025,
+  "genre": "pop"
+ },
+ {
+  "id": 1603,
+  "artist": "5 Seconds of Summer",
+  "song": "Youngblood",
+  "duration_ms": 203417,
+  "year": 2018,
+  "tempo": 120.274,
+  "genre": "pop"
+ },
+ {
+  "id": 636,
+  "artist": "6ix9ine",
+  "song": "FEFE",
+  "duration_ms": 179404,
+  "year": 2018,
+  "tempo": 125.978,
+  "genre": "hip hop"
+ },
+ {
+  "id": 753,
+  "artist": "6ix9ine",
+  "song": "GUMMO",
+  "duration_ms": 157643,
+  "year": 2018,
+  "tempo": 157.036,
+  "genre": "hip hop"
+ },
+ {
+  "id": 1375,
+  "artist": "99 Souls",
+  "song": "The Girl Is Mine",
+  "duration_ms": 216613,
+  "year": 2016,
+  "tempo": 118.991,
+  "genre": "Dance/Electronic"
+ },
+ {
+  "id": 13,
+  "artist": "A Boogie Wit da Hoodie",
+  "song": "Look Back at It",
+  "duration_ms": 179449,
+  "year": 2018,
+  "tempo": 96.057,
+  "genre": "hip hop"
+ },
+ {
+  "id": 560,
+  "artist": "A Boogie Wit da Hoodie",
+  "song": "Swervin (feat. 6ix9ine)",
+  "duration_ms": 189486,
+  "year": 2018,
+  "tempo": 93.023,
+  "genre": "hip hop"
+ },
+ {
+  "id": 614,
+  "artist": "A Boogie Wit da Hoodie",
+  "song": "Drowning (feat. Kodak Black)",
+  "duration_ms": 209269,
+  "year": 2017,
+  "tempo": 129.014,
+  "genre": "hip hop"
+ },
+ {
+  "id": 1037,
+  "artist": "A$AP Ferg",
+  "song": "Plain Jane",
+  "duration_ms": 173600,
+  "year": 2017,
+  "tempo": 170.142,
+  "genre": "hip hop, pop"
+ },
+ {
+  "id": 1431,
+  "artist": "A$AP Rocky",
+  "song": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+  "duration_ms": 233786,
+  "year": 2013,
+  "tempo": 95.967,
+  "genre": "hip hop"
+ },
+ {
+  "id": 767,
+  "artist": "A.R. Rahman",
+  "song": "Jai Ho! (You Are My Destiny)",
+  "duration_ms": 222400,
+  "year": 2009,
+  "tempo": 136.202,
+  "genre": "set()"
+ },
+ {
+  "id": 33,
+  "artist": "AJ Tracey",
+  "song": "Ladbroke Grove",
+  "duration_ms": 190537,
+  "year": 2019,
+  "tempo": 133.986,
+  "genre": "hip hop, Dance/Electronic"
+ },
+ {
+  "id": 1434,
+  "artist": "AJR",
+  "song": "Weak",
+  "duration_ms": 201160,
+  "year": 2017,
+  "tempo": 123.98,
+  "genre": "rock"
+ },
+ {
+  "id": 500,
+  "artist": "AWOLNATION",
+  "song": "Sail",
+  "duration_ms": 259102,
+  "year": 2011,
+  "tempo": 119.038,
+  "genre": "pop, rock"
+ },
+ {
+  "id": 1715,
+  "artist": "Aaliyah",
+  "song": "Rock The Boat",
+  "duration_ms": 275026,
+  "year": 2019,
+  "tempo": 92.988,
+  "genre": "hip hop, pop, R&B"
+ },
+ {
+  "id": 1867,
+  "artist": "Adam Lambert",
+  "song": "Ghost Town",
+  "duration_ms": 208330,
+  "year": 2015,
+  "tempo": 119.955,
+  "genre": "pop"
+ },
+ {
+  "id": 1920,
+  "artist": "Adam Lambert",
+  "song": "Whataya Want from Me",
+  "duration_ms": 227320,
+  "year": 2009,
+  "tempo": 185.934,
+  "genre": "pop"
+ },
+ {
+  "id": 48,
+  "artist": "Adele",
+  "song": "Chasing Pavements",
+  "duration_ms": 210506,
+  "year": 2008,
+  "tempo": 80.045,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 112,
+  "artist": "Adele",
+  "song": "Skyfall",
+  "duration_ms": 286480,
+  "year": 2012,
+  "tempo": 75.881,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 180,
+  "artist": "Adele",
+  "song": "Rolling in the Deep",
+  "duration_ms": 228093,
+  "year": 2011,
+  "tempo": 104.948,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 431,
+  "artist": "Adele",
+  "song": "Someone Like You",
+  "duration_ms": 285240,
+  "year": 2011,
+  "tempo": 135.047,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 698,
+  "artist": "Adele",
+  "song": "Hello",
+  "duration_ms": 295502,
+  "year": 2015,
+  "tempo": 157.98,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 1612,
+  "artist": "Adele",
+  "song": "Set Fire to the Rain",
+  "duration_ms": 242973,
+  "year": 2011,
+  "tempo": 107.995,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 1904,
+  "artist": "Adele",
+  "song": "Rumour Has It",
+  "duration_ms": 223266,
+  "year": 2011,
+  "tempo": 120.052,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 894,
+  "artist": "Agnes",
+  "song": "Release Me",
+  "duration_ms": 256213,
+  "year": 2009,
+  "tempo": 127.973,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 350,
+  "artist": "Akon",
+  "song": "Right Now (Na Na Na)",
+  "duration_ms": 240746,
+  "year": 2008,
+  "tempo": 137.982,
+  "genre": "pop"
+ },
+ {
+  "id": 609,
+  "artist": "Akon",
+  "song": "Beautiful",
+  "duration_ms": 312986,
+  "year": 2008,
+  "tempo": 130.015,
+  "genre": "pop"
+ },
+ {
+  "id": 117,
+  "artist": "Alan Walker",
+  "song": "Faded",
+  "duration_ms": 212106,
+  "year": 2018,
+  "tempo": 179.642,
+  "genre": "Dance/Electronic"
+ },
+ {
+  "id": 1669,
+  "artist": "Alec Benjamin",
+  "song": "Let Me Down Slowly",
+  "duration_ms": 169353,
+  "year": 2018,
+  "tempo": 150.073,
+  "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+  "id": 312,
+  "artist": "Alesha Dixon",
+  "song": "The Boy Does Nothing",
+  "duration_ms": 210680,
+  "year": 2008,
+  "tempo": 87.0,
+  "genre": "pop"
+ },
+ {
+  "id": 484,
+  "artist": "Alessia Cara",
+  "song": "Here",
+  "duration_ms": 199453,
+  "year": 2015,
+  "tempo": 120.892,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 800,
+  "artist": "Alessia Cara",
+  "song": "Scars To Your Beautiful",
+  "duration_ms": 230226,
+  "year": 2016,
+  "tempo": 194.169,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 1926,
+  "artist": "Alessia Cara",
+  "song": "Here",
+  "duration_ms": 199453,
+  "year": 2016,
+  "tempo": 120.493,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 164,
+  "artist": "Alesso",
+  "song": "Years - ラジオ・エディット",
+  "duration_ms": 195480,
+  "year": 2012,
+  "tempo": 128.008,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 523,
+  "artist": "Alesso",
+  "song": "Heroes (we could be)",
+  "duration_ms": 209866,
+  "year": 2014,
+  "tempo": 125.876,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 172,
+  "artist": "Alex & Sierra",
+  "song": "Little Do You Know",
+  "duration_ms": 185200,
+  "year": 2014,
+  "tempo": 145.879,
+  "genre": "pop"
+ },
+ {
+  "id": 1360,
+  "artist": "Alex Clare",
+  "song": "Too Close",
+  "duration_ms": 256613,
+  "year": 2011,
+  "tempo": 126.027,
+  "genre": "rock"
+ },
+ {
+  "id": 1018,
+  "artist": "Alexandra Burke",
+  "song": "Hallelujah",
+  "duration_ms": 217826,
+  "year": 2009,
+  "tempo": 182.571,
+  "genre": "pop"
+ },
+ {
+  "id": 1287,
+  "artist": "Alexandra Burke",
+  "song": "Bad Boys (feat. Flo Rida)",
+  "duration_ms": 206480,
+  "year": 2009,
+  "tempo": 140.029,
+  "genre": "pop"
+ },
+ {
+  "id": 242,
+  "artist": "Alexandra Stan",
+  "song": "Mr. Saxobeat",
+  "duration_ms": 195105,
+  "year": 2011,
+  "tempo": 126.976,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 1099,
+  "artist": "Alicia Keys",
+  "song": "Empire State of Mind (Part II) Broken Down",
+  "duration_ms": 216480,
+  "year": 2009,
+  "tempo": 92.923,
+  "genre": "pop, R&B"
+ },
+ {
+  "id": 1161,
+  "artist": "Aloe Blacc",
+  "song": "I Need A Dollar",
+  "duration_ms": 243053,
+  "year": 2010,
+  "tempo": 95.498,
+  "genre": "R&B"
+ },
+ {
+  "id": 1252,
+  "artist": "Alok",
+  "song": "Hear Me Now",
+  "duration_ms": 192846,
+  "year": 2016,
+  "tempo": 121.996,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 1075,
+  "artist": "AlunaGeorge",
+  "song": "I'm In Control",
+  "duration_ms": 209425,
+  "year": 2016,
+  "tempo": 104.013,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 755,
+  "artist": "Amerie",
+  "song": "1 Thing",
+  "duration_ms": 238746,
+  "year": 2008,
+  "tempo": 125.085,
+  "genre": "hip hop, pop, R&B"
+ },
+ {
+  "id": 214,
+  "artist": "Angie Martinez",
+  "song": "If I Could Go! (feat. Lil' Mo & Sacario)",
+  "duration_ms": 244466,
+  "year": 2019,
+  "tempo": 195.685,
+  "genre": "pop"
+ },
+ {
+  "id": 333,
+  "artist": "Anne-Marie",
+  "song": "Ciao Adios",
+  "duration_ms": 200104,
+  "year": 2017,
+  "tempo": 106.083,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 1149,
+  "artist": "Anne-Marie",
+  "song": "Alarm",
+  "duration_ms": 205593,
+  "year": 2016,
+  "tempo": 146.928,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 1371,
+  "artist": "Anne-Marie",
+  "song": "2002",
+  "duration_ms": 186986,
+  "year": 2018,
+  "tempo": 96.133,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 1062,
+  "artist": "Anuel AA",
+  "song": "Secreto",
+  "duration_ms": 258800,
+  "year": 2019,
+  "tempo": 91.987,
+  "genre": "latin"
+ },
+ {
+  "id": 1745,
+  "artist": "Anuel AA",
+  "song": "China",
+  "duration_ms": 301714,
+  "year": 2019,
+  "tempo": 105.027,
+  "genre": "latin"
+ },
+ {
+  "id": 1763,
+  "artist": "Arctic Monkeys",
+  "song": "Do I Wanna Know?",
+  "duration_ms": 272394,
+  "year": 2013,
+  "tempo": 85.03,
+  "genre": "rock"
+ },
+ {
+  "id": 1826,
+  "artist": "Arctic Monkeys",
+  "song": "Why'd You Only Call Me When You're High?",
+  "duration_ms": 161123,
+  "year": 2013,
+  "tempo": 92.004,
+  "genre": "rock"
+ },
+ {
+  "id": 5,
+  "artist": "Ariana Grande",
+  "song": "Into You",
+  "duration_ms": 244453,
+  "year": 2016,
+  "tempo": 107.853,
+  "genre": "pop"
+ },
+ {
+  "id": 40,
+  "artist": "Ariana Grande",
+  "song": "Love Me Harder",
+  "duration_ms": 236133,
+  "year": 2014,
+  "tempo": 98.992,
+  "genre": "pop"
+ },
+ {
+  "id": 209,
+  "artist": "Ariana Grande",
+  "song": "Dangerous Woman",
+  "duration_ms": 235946,
+  "year": 2016,
+  "tempo": 134.052,
+  "genre": "pop"
+ },
+ {
+  "id": 210,
+  "artist": "Ariana Grande",
+  "song": "One Last Time",
+  "duration_ms": 197266,
+  "year": 2014,
+  "tempo": 125.026,
+  "genre": "pop"
+ },
+ {
+  "id": 310,
+  "artist": "Ariana Grande",
+  "song": "God is a woman",
+  "duration_ms": 197546,
+  "year": 2018,
+  "tempo": 145.031,
+  "genre": "pop"
+ },
+ {
+  "id": 419,
+  "artist": "Ariana Grande",
+  "song": "7 rings",
+  "duration_ms": 178626,
+  "year": 2019,
+  "tempo": 140.048,
+  "genre": "pop"
+ },
+ {
+  "id": 442,
+  "artist": "Ariana Grande",
+  "song": "The Way",
+  "duration_ms": 227026,
+  "year": 2013,
+  "tempo": 82.324,
+  "genre": "pop"
+ },
+ {
+  "id": 770,
+  "artist": "Ariana Grande",
+  "song": "boyfriend (with Social House)",
+  "duration_ms": 186106,
+  "year": 2019,
+  "tempo": 190.097,
+  "genre": "pop"
+ },
+ {
+  "id": 816,
+  "artist": "Ariana Grande",
+  "song": "no tears left to cry",
+  "duration_ms": 205920,
+  "year": 2018,
+  "tempo": 121.993,
+  "genre": "pop"
+ },
+ {
+  "id": 892,
+  "artist": "Ariana Grande",
+  "song": "Love Me Harder",
+  "duration_ms": 236133,
+  "year": 2014,
+  "tempo": 98.992,
+  "genre": "pop"
+ },
+ {
+  "id": 1368,
+  "artist": "Ariana Grande",
+  "song": "break up with your girlfriend, i'm bored",
+  "duration_ms": 190440,
+  "year": 2019,
+  "tempo": 169.999,
+  "genre": "pop"
+ },
+ {
+  "id": 1594,
+  "artist": "Ariana Grande",
+  "song": "Side To Side",
+  "duration_ms": 226160,
+  "year": 2016,
+  "tempo": 159.145,
+  "genre": "pop"
+ },
+ {
+  "id": 1805,
+  "artist": "Ariana Grande",
+  "song": "Break Free",
+  "duration_ms": 214840,
+  "year": 2014,
+  "tempo": 129.956,
+  "genre": "pop"
+ },
+ {
+  "id": 1825,
+  "artist": "Ariana Grande",
+  "song": "Problem",
+  "duration_ms": 193920,
+  "year": 2014,
+  "tempo": 103.008,
+  "genre": "pop"
+ },
+ {
+  "id": 733,
+  "artist": "Armin van Buuren",
+  "song": "This Is What It Feels Like",
+  "duration_ms": 204360,
+  "year": 2013,
+  "tempo": 129.885,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 574,
+  "artist": "Asaf Avidan & the Mojos",
+  "song": "One Day / Reckoning Song (Wankelmut Remix) [Radio Edit]",
+  "duration_ms": 212360,
+  "year": 2012,
+  "tempo": 119.012,
+  "genre": "pop"
+ },
+ {
+  "id": 227,
+  "artist": "Asher Roth",
+  "song": "I Love College",
+  "duration_ms": 241933,
+  "year": 2009,
+  "tempo": 86.444,
+  "genre": "hip hop, pop"
+ },
+ {
+  "id": 697,
+  "artist": "Ashley O",
+  "song": "On A Roll",
+  "duration_ms": 154447,
+  "year": 2019,
+  "tempo": 125.011,
+  "genre": "set()"
+ },
+ {
+  "id": 526,
+  "artist": "Astrid S",
+  "song": "Hurts So Good",
+  "duration_ms": 208728,
+  "year": 2016,
+  "tempo": 120.036,
+  "genre": "rock, pop, Dance/Electronic"
+ },
+ {
+  "id": 347,
+  "artist": "Ava Max",
+  "song": "So Am I",
+  "duration_ms": 183026,
+  "year": 2019,
+  "tempo": 130.089,
+  "genre": "pop"
+ },
+ {
+  "id": 1356,
+  "artist": "Ava Max",
+  "song": "Sweet but Psycho",
+  "duration_ms": 187436,
+  "year": 2018,
+  "tempo": 133.002,
+  "genre": "pop"
+ },
+ {
+  "id": 23,
+  "artist": "Avicii",
+  "song": "Hey Brother",
+  "duration_ms": 255093,
+  "year": 2013,
+  "tempo": 125.014,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 106,
+  "artist": "Avicii",
+  "song": "Without You (feat. Sandro Cavazza)",
+  "duration_ms": 181672,
+  "year": 2017,
+  "tempo": 133.993,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 328,
+  "artist": "Avicii",
+  "song": "Waiting For Love",
+  "duration_ms": 230613,
+  "year": 2015,
+  "tempo": 127.999,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 399,
+  "artist": "Avicii",
+  "song": "SOS (feat. Aloe Blacc)",
+  "duration_ms": 157202,
+  "year": 2019,
+  "tempo": 100.001,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 531,
+  "artist": "Avicii",
+  "song": "Levels - Radio Edit",
+  "duration_ms": 199906,
+  "year": 2011,
+  "tempo": 126.04,
+  "genre": "pop, Dance/Electronic"
+ },
+ {
+  "id": 790,
+  "artist": "Avicii",
+  "song": "Silhouettes - Original Radio Edit",
+  "duration_ms": 211880,
+  "year": 2012,
+  "tempo": 128.074,
+  "genre": "pop, Dance/Electronic"
+ }
+]

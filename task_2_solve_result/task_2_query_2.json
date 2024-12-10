@@ -1,0 +1,302 @@
+[
+ {
+  "name": "Кубло 43",
+  "rating": 4.6,
+  "convenience": 4,
+  "prob_price": 503826079
+ },
+ {
+  "name": "Лежбище 20",
+  "rating": 3.8,
+  "convenience": 1,
+  "prob_price": 75251457
+ },
+ {
+  "name": "Петля 1",
+  "rating": 3.4,
+  "convenience": 3,
+  "prob_price": 295328337
+ },
+ {
+  "name": "Пасека 78",
+  "rating": 4.4,
+  "convenience": 4,
+  "prob_price": 138012047
+ },
+ {
+  "name": "ТЭЦ 72",
+  "rating": 3.0,
+  "convenience": 3,
+  "prob_price": 179622147
+ },
+ {
+  "name": "Шмелиное гнездо 2",
+  "rating": 3.0,
+  "convenience": 1,
+  "prob_price": 402686582
+ },
+ {
+  "name": "Ангар 23",
+  "rating": 3.9,
+  "convenience": 1,
+  "prob_price": 129149253
+ },
+ {
+  "name": "Берлога 95",
+  "rating": 4.9,
+  "convenience": 3,
+  "prob_price": 254961140
+ },
+ {
+  "name": "Переправа 91",
+  "rating": 3.7,
+  "convenience": 4,
+  "prob_price": 93739460
+ },
+ {
+  "name": "Овчарня 6",
+  "rating": 3.2,
+  "convenience": 4,
+  "prob_price": 793464060
+ },
+ {
+  "name": "Пандус 5",
+  "rating": 4.9,
+  "convenience": 2,
+  "prob_price": 513917088
+ },
+ {
+  "name": "Магазин 38",
+  "rating": 3.6,
+  "convenience": 5,
+  "prob_price": 674914900
+ },
+ {
+  "name": "Путепровод 61",
+  "rating": 4.0,
+  "convenience": 4,
+  "prob_price": 356850332
+ },
+ {
+  "name": "Петля 1",
+  "rating": 3.1,
+  "convenience": 3,
+  "prob_price": 295328337
+ },
+ {
+  "name": "Университет 22",
+  "rating": 4.9,
+  "convenience": 2,
+  "prob_price": 637941691
+ },
+ {
+  "name": "Овчарня 6",
+  "rating": 3.1,
+  "convenience": 5,
+  "prob_price": 793464060
+ },
+ {
+  "name": "Йодль 96",
+  "rating": 4.1,
+  "convenience": 3,
+  "prob_price": 713676903
+ },
+ {
+  "name": "Псарня 15",
+  "rating": 3.1,
+  "convenience": 2,
+  "prob_price": 459047567
+ },
+ {
+  "name": "Замок 61",
+  "rating": 3.4,
+  "convenience": 2,
+  "prob_price": 874958374
+ },
+ {
+  "name": "Дворец 60",
+  "rating": 3.2,
+  "convenience": 1,
+  "prob_price": 815734878
+ },
+ {
+  "name": "Отель 64",
+  "rating": 4.3,
+  "convenience": 5,
+  "prob_price": 460601603
+ },
+ {
+  "name": "Путепровод 61",
+  "rating": 3.5,
+  "convenience": 5,
+  "prob_price": 356850332
+ },
+ {
+  "name": "Особняк 28",
+  "rating": 5.0,
+  "convenience": 2,
+  "prob_price": 242835279
+ },
+ {
+  "name": "Овчарня 6",
+  "rating": 3.4,
+  "convenience": 1,
+  "prob_price": 793464060
+ },
+ {
+  "name": "Пандус 5",
+  "rating": 3.0,
+  "convenience": 2,
+  "prob_price": 513917088
+ },
+ {
+  "name": "Кубло 43",
+  "rating": 4.0,
+  "convenience": 5,
+  "prob_price": 503826079
+ },
+ {
+  "name": "Канализация 31",
+  "rating": 4.2,
+  "convenience": 1,
+  "prob_price": 582042101
+ },
+ {
+  "name": "Магазин 38",
+  "rating": 4.2,
+  "convenience": 1,
+  "prob_price": 674914900
+ },
+ {
+  "name": "Магазин 60",
+  "rating": 4.8,
+  "convenience": 2,
+  "prob_price": 527413377
+ },
+ {
+  "name": "Овчарня 100",
+  "rating": 3.0,
+  "convenience": 2,
+  "prob_price": 94900729
+ },
+ {
+  "name": "Особняк 28",
+  "rating": 3.2,
+  "convenience": 3,
+  "prob_price": 242835279
+ },
+ {
+  "name": "Термитник 81",
+  "rating": 5.0,
+  "convenience": 3,
+  "prob_price": 987101833
+ },
+ {
+  "name": "Особняк 89",
+  "rating": 3.6,
+  "convenience": 5,
+  "prob_price": 486116678
+ },
+ {
+  "name": "Башня 4",
+  "rating": 5.0,
+  "convenience": 4,
+  "prob_price": 204695269
+ },
+ {
+  "name": "Магазин 38",
+  "rating": 3.4,
+  "convenience": 5,
+  "prob_price": 674914900
+ },
+ {
+  "name": "Бункер 43",
+  "rating": 4.3,
+  "convenience": 1,
+  "prob_price": 728541505
+ },
+ {
+  "name": "Шмелиное гнездо 2",
+  "rating": 3.0,
+  "convenience": 5,
+  "prob_price": 402686582
+ },
+ {
+  "name": "Гнездо 19",
+  "rating": 3.6,
+  "convenience": 4,
+  "prob_price": 616904472
+ },
+ {
+  "name": "Пандус 5",
+  "rating": 3.4,
+  "convenience": 1,
+  "prob_price": 513917088
+ },
+ {
+  "name": "Башня 4",
+  "rating": 4.2,
+  "convenience": 5,
+  "prob_price": 204695269
+ },
+ {
+  "name": "Особняк 89",
+  "rating": 4.1,
+  "convenience": 1,
+  "prob_price": 486116678
+ },
+ {
+  "name": "Развязка 78",
+  "rating": 4.0,
+  "convenience": 4,
+  "prob_price": 44907321
+ },
+ {
+  "name": "Йодль 96",
+  "rating": 4.5,
+  "convenience": 4,
+  "prob_price": 713676903
+ },
+ {
+  "name": "Паутинник 59",
+  "rating": 5.0,
+  "convenience": 1,
+  "prob_price": 144637549
+ },
+ {
+  "name": "Музей 64",
+  "rating": 4.2,
+  "convenience": 4,
+  "prob_price": 633180912
+ },
+ {
+  "name": "Башня 15",
+  "rating": 4.4,
+  "convenience": 2,
+  "prob_price": 737234080
+ },
+ {
+  "name": "Бункер 43",
+  "rating": 4.6,
+  "convenience": 3,
+  "prob_price": 728541505
+ },
+ {
+  "name": "Верблюжатник 43",
+  "rating": 3.3,
+  "convenience": 5,
+  "prob_price": 947074893
+ },
+ {
+  "name": "Склад 20",
+  "rating": 3.0,
+  "convenience": 2,
+  "prob_price": 458584994
+ },
+ {
+  "name": "Овчарня 100",
+  "rating": 3.3,
+  "convenience": 2,
+  "prob_price": 94900729
+ }
+]

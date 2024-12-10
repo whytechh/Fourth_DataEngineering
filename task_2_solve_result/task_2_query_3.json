@@ -1,0 +1,252 @@
+[
+ {
+  "name": "Лестница 95",
+  "max_offer": 416654180,
+  "reviews": 45
+ },
+ {
+  "name": "Йодль 96",
+  "max_offer": 713676903,
+  "reviews": 45
+ },
+ {
+  "name": "Шмелиное гнездо 2",
+  "max_offer": 402686582,
+  "reviews": 79
+ },
+ {
+  "name": "Усадьба 27",
+  "max_offer": 619136334,
+  "reviews": 71
+ },
+ {
+  "name": "Театр 9",
+  "max_offer": 181902814,
+  "reviews": 45
+ },
+ {
+  "name": "Страусятник 71",
+  "max_offer": 128280833,
+  "reviews": 96
+ },
+ {
+  "name": "Путепровод 61",
+  "max_offer": 356850332,
+  "reviews": 98
+ },
+ {
+  "name": "Петля 1",
+  "max_offer": 295328337,
+  "reviews": 64
+ },
+ {
+  "name": "Отель 64",
+  "max_offer": 460601603,
+  "reviews": 96
+ },
+ {
+  "name": "Особняк 28",
+  "max_offer": 242835279,
+  "reviews": 104
+ },
+ {
+  "name": "Башня 4",
+  "max_offer": 204695269,
+  "reviews": 79
+ },
+ {
+  "name": "Цирк 14",
+  "max_offer": 927745626,
+  "reviews": 72
+ },
+ {
+  "name": "Фазенда 68",
+  "max_offer": 621694058,
+  "reviews": 66
+ },
+ {
+  "name": "Утятник 78",
+  "max_offer": 383564834,
+  "reviews": 63
+ },
+ {
+  "name": "Университет 22",
+  "max_offer": 637941691,
+  "reviews": 69
+ },
+ {
+  "name": "Термитник 81",
+  "max_offer": 987101833,
+  "reviews": 84
+ },
+ {
+  "name": "ТЭЦ 72",
+  "max_offer": 179622147,
+  "reviews": 76
+ },
+ {
+  "name": "Склад 20",
+  "max_offer": 458584994,
+  "reviews": 89
+ },
+ {
+  "name": "Свиноферма 94",
+  "max_offer": 764233356,
+  "reviews": 65
+ },
+ {
+  "name": "Развязка 78",
+  "max_offer": 44907321,
+  "reviews": 69
+ },
+ {
+  "name": "Псарня 15",
+  "max_offer": 459047567,
+  "reviews": 70
+ },
+ {
+  "name": "Подвал 23",
+  "max_offer": 837119472,
+  "reviews": 71
+ },
+ {
+  "name": "Переправа 91",
+  "max_offer": 93739460,
+  "reviews": 101
+ },
+ {
+  "name": "Паутинник 59",
+  "max_offer": 144637549,
+  "reviews": 51
+ },
+ {
+  "name": "Пасека 78",
+  "max_offer": 138012047,
+  "reviews": 57
+ },
+ {
+  "name": "Пандус 5",
+  "max_offer": 513917088,
+  "reviews": 71
+ },
+ {
+  "name": "Особняк 89",
+  "max_offer": 486116678,
+  "reviews": 87
+ },
+ {
+  "name": "Овчарня 6",
+  "max_offer": 793464060,
+  "reviews": 94
+ },
+ {
+  "name": "Овчарня 100",
+  "max_offer": 94900729,
+  "reviews": 99
+ },
+ {
+  "name": "Нора 51",
+  "max_offer": 261400284,
+  "reviews": 78
+ },
+ {
+  "name": "Музей 64",
+  "max_offer": 633180912,
+  "reviews": 68
+ },
+ {
+  "name": "Мануфактура 29",
+  "max_offer": 997196366,
+  "reviews": 65
+ },
+ {
+  "name": "Магазин 60",
+  "max_offer": 527413377,
+  "reviews": 95
+ },
+ {
+  "name": "Магазин 38",
+  "max_offer": 674914900,
+  "reviews": 80
+ },
+ {
+  "name": "Лестница 75",
+  "max_offer": 922792594,
+  "reviews": 76
+ },
+ {
+  "name": "Лежбище 6",
+  "max_offer": 437474078,
+  "reviews": 92
+ },
+ {
+  "name": "Лежбище 20",
+  "max_offer": 75251457,
+  "reviews": 93
+ },
+ {
+  "name": "Кубло 43",
+  "max_offer": 503826079,
+  "reviews": 78
+ },
+ {
+  "name": "Котельная 95",
+  "max_offer": 956366206,
+  "reviews": 56
+ },
+ {
+  "name": "Коровник 42",
+  "max_offer": 906884995,
+  "reviews": 84
+ },
+ {
+  "name": "Кафе 7",
+  "max_offer": 135074906,
+  "reviews": 69
+ },
+ {
+  "name": "Канализация 31",
+  "max_offer": 582042101,
+  "reviews": 72
+ },
+ {
+  "name": "Йодль 37",
+  "max_offer": 15135896,
+  "reviews": 79
+ },
+ {
+  "name": "Замок 61",
+  "max_offer": 874958374,
+  "reviews": 69
+ },
+ {
+  "name": "Завод 65",
+  "max_offer": 73551727,
+  "reviews": 85
+ },
+ {
+  "name": "Дуплянка 13",
+  "max_offer": 427440749,
+  "reviews": 53
+ },
+ {
+  "name": "Дупло 61",
+  "max_offer": 386523918,
+  "reviews": 82
+ },
+ {
+  "name": "Док 71",
+  "max_offer": 187203264,
+  "reviews": 82
+ },
+ {
+  "name": "Детский сад 25",
+  "max_offer": 704698600,
+  "reviews": 80
+ },
+ {
+  "name": "Дворец 60",
+  "max_offer": 815734878,
+  "reviews": 95
+ }
+]

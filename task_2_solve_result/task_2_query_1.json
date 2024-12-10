@@ -1,0 +1,866 @@
+[
+ {
+  "id": 566,
+  "name": "Ангар 23",
+  "rating": 4.8,
+  "convenience": 1,
+  "security": 1,
+  "functionality": 2,
+  "comment": "Мне нравится дизайн этого здания."
+ },
+ {
+  "id": 855,
+  "name": "Ангар 23",
+  "rating": 1.2,
+  "convenience": 2,
+  "security": 1,
+  "functionality": 3,
+  "comment": "Это здание построено из стандартных строительных материалов."
+ },
+ {
+  "id": 888,
+  "name": "Ангар 23",
+  "rating": 2.7,
+  "convenience": 5,
+  "security": 1,
+  "functionality": 5,
+  "comment": "У этого здания отличная архитектура."
+ },
+ {
+  "id": 945,
+  "name": "Ангар 23",
+  "rating": 0.7,
+  "convenience": 5,
+  "security": 1,
+  "functionality": 2,
+  "comment": "Это здание построено из стандартных строительных материалов."
+ },
+ {
+  "id": 1094,
+  "name": "Ангар 23",
+  "rating": 0.6,
+  "convenience": 4,
+  "security": 1,
+  "functionality": 3,
+  "comment": "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+ },
+ {
+  "id": 1211,
+  "name": "Ангар 23",
+  "rating": 0.6,
+  "convenience": 1,
+  "security": 1,
+  "functionality": 4,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 1380,
+  "name": "Ангар 23",
+  "rating": 4.8,
+  "convenience": 3,
+  "security": 1,
+  "functionality": 5,
+  "comment": "Это здание очень функционально."
+ },
+ {
+  "id": 1544,
+  "name": "Ангар 23",
+  "rating": 3.4,
+  "convenience": 5,
+  "security": 1,
+  "functionality": 2,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 1805,
+  "name": "Ангар 23",
+  "rating": 1.1,
+  "convenience": 5,
+  "security": 1,
+  "functionality": 1,
+  "comment": "Это здание является примером функционального дизайна."
+ },
+ {
+  "id": 2049,
+  "name": "Ангар 23",
+  "rating": 2.5,
+  "convenience": 5,
+  "security": 1,
+  "functionality": 1,
+  "comment": "Это здание является примером функционального дизайна."
+ },
+ {
+  "id": 2279,
+  "name": "Ангар 23",
+  "rating": 0.1,
+  "convenience": 3,
+  "security": 1,
+  "functionality": 2,
+  "comment": "Это здание построено из стандартных строительных материалов."
+ },
+ {
+  "id": 2437,
+  "name": "Ангар 23",
+  "rating": 3.9,
+  "convenience": 1,
+  "security": 1,
+  "functionality": 3,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 2467,
+  "name": "Ангар 23",
+  "rating": 1.6,
+  "convenience": 5,
+  "security": 1,
+  "functionality": 5,
+  "comment": "Это здание прекрасно вписывается в окружающий ландшафт."
+ },
+ {
+  "id": 2695,
+  "name": "Ангар 23",
+  "rating": 0.9,
+  "convenience": 3,
+  "security": 1,
+  "functionality": 4,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 3131,
+  "name": "Ангар 23",
+  "rating": 4.2,
+  "convenience": 3,
+  "security": 1,
+  "functionality": 3,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 3250,
+  "name": "Ангар 23",
+  "rating": 4.6,
+  "convenience": 1,
+  "security": 1,
+  "functionality": 3,
+  "comment": "Это здание построено из стандартных строительных материалов."
+ },
+ {
+  "id": 3396,
+  "name": "Ангар 23",
+  "rating": 0.3,
+  "convenience": 2,
+  "security": 1,
+  "functionality": 2,
+  "comment": "Это здание построено из стандартных строительных материалов."
+ },
+ {
+  "id": 3995,
+  "name": "Ангар 23",
+  "rating": 0.9,
+  "convenience": 3,
+  "security": 1,
+  "functionality": 5,
+  "comment": "У этого здания отличная архитектура."
+ },
+ {
+  "id": 4399,
+  "name": "Ангар 23",
+  "rating": 3.6,
+  "convenience": 2,
+  "security": 1,
+  "functionality": 1,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 192,
+  "name": "Ангар 23",
+  "rating": 5.0,
+  "convenience": 1,
+  "security": 2,
+  "functionality": 1,
+  "comment": "Это здание очень функционально."
+ },
+ {
+  "id": 247,
+  "name": "Ангар 23",
+  "rating": 2.5,
+  "convenience": 5,
+  "security": 2,
+  "functionality": 4,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 323,
+  "name": "Ангар 23",
+  "rating": 5.0,
+  "convenience": 1,
+  "security": 2,
+  "functionality": 5,
+  "comment": "Это здание расположено в удобном месте, рядом с транспортными магистралями и инфраструктурой."
+ },
+ {
+  "id": 448,
+  "name": "Ангар 23",
+  "rating": 2.5,
+  "convenience": 5,
+  "security": 2,
+  "functionality": 5,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 504,
+  "name": "Ангар 23",
+  "rating": 0.8,
+  "convenience": 1,
+  "security": 2,
+  "functionality": 1,
+  "comment": "Мне нравится дизайн этого здания."
+ },
+ {
+  "id": 736,
+  "name": "Ангар 23",
+  "rating": 4.8,
+  "convenience": 4,
+  "security": 2,
+  "functionality": 5,
+  "comment": "Мне нравится дизайн этого здания."
+ },
+ {
+  "id": 812,
+  "name": "Ангар 23",
+  "rating": 2.9,
+  "convenience": 2,
+  "security": 2,
+  "functionality": 1,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 825,
+  "name": "Ангар 23",
+  "rating": 3.1,
+  "convenience": 4,
+  "security": 2,
+  "functionality": 4,
+  "comment": "Это здание является примером функционального дизайна."
+ },
+ {
+  "id": 829,
+  "name": "Ангар 23",
+  "rating": 3.9,
+  "convenience": 4,
+  "security": 2,
+  "functionality": 1,
+  "comment": "Это здание является примером функционального дизайна."
+ },
+ {
+  "id": 1232,
+  "name": "Ангар 23",
+  "rating": 0.6,
+  "convenience": 2,
+  "security": 2,
+  "functionality": 1,
+  "comment": "Это здание построено из стандартных строительных материалов."
+ },
+ {
+  "id": 1576,
+  "name": "Ангар 23",
+  "rating": 0.5,
+  "convenience": 5,
+  "security": 2,
+  "functionality": 2,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 1673,
+  "name": "Ангар 23",
+  "rating": 0.8,
+  "convenience": 1,
+  "security": 2,
+  "functionality": 2,
+  "comment": "Это здание прекрасно вписывается в окружающий ландшафт."
+ },
+ {
+  "id": 1794,
+  "name": "Ангар 23",
+  "rating": 4.7,
+  "convenience": 4,
+  "security": 2,
+  "functionality": 2,
+  "comment": "Мне нравится дизайн этого здания."
+ },
+ {
+  "id": 1798,
+  "name": "Ангар 23",
+  "rating": 3.0,
+  "convenience": 4,
+  "security": 2,
+  "functionality": 1,
+  "comment": "Это здание построено из стандартных строительных материалов."
+ },
+ {
+  "id": 2171,
+  "name": "Ангар 23",
+  "rating": 3.1,
+  "convenience": 4,
+  "security": 2,
+  "functionality": 5,
+  "comment": "Это здание является примером функционального дизайна."
+ },
+ {
+  "id": 3163,
+  "name": "Ангар 23",
+  "rating": 0.4,
+  "convenience": 4,
+  "security": 2,
+  "functionality": 2,
+  "comment": "Это великолепное здание!"
+ },
+ {
+  "id": 3323,
+  "name": "Ангар 23",
+  "rating": 2.8,
+  "convenience": 1,
+  "security": 2,
+  "functionality": 3,
+  "comment": "У этого здания отличная архитектура."
+ },
+ {
+  "id": 3515,
+  "name": "Ангар 23",
+  "rating": 3.5,
+  "convenience": 5,
+  "security": 2,
+  "functionality": 3,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 3905,
+  "name": "Ангар 23",
+  "rating": 1.9,
+  "convenience": 2,
+  "security": 2,
+  "functionality": 4,
+  "comment": "Это здание прекрасно вписывается в окружающий ландшафт."
+ },
+ {
+  "id": 3933,
+  "name": "Ангар 23",
+  "rating": 2.9,
+  "convenience": 1,
+  "security": 2,
+  "functionality": 3,
+  "comment": "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+ },
+ {
+  "id": 4114,
+  "name": "Ангар 23",
+  "rating": 0.2,
+  "convenience": 5,
+  "security": 2,
+  "functionality": 1,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 4146,
+  "name": "Ангар 23",
+  "rating": 3.3,
+  "convenience": 3,
+  "security": 2,
+  "functionality": 5,
+  "comment": "У этого здания отличная архитектура."
+ },
+ {
+  "id": 4353,
+  "name": "Ангар 23",
+  "rating": 4.0,
+  "convenience": 3,
+  "security": 2,
+  "functionality": 1,
+  "comment": "Это великолепное здание!"
+ },
+ {
+  "id": 158,
+  "name": "Ангар 23",
+  "rating": 1.8,
+  "convenience": 2,
+  "security": 3,
+  "functionality": 5,
+  "comment": "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+ },
+ {
+  "id": 440,
+  "name": "Ангар 23",
+  "rating": 1.3,
+  "convenience": 3,
+  "security": 3,
+  "functionality": 2,
+  "comment": "Это великолепное здание!"
+ },
+ {
+  "id": 627,
+  "name": "Ангар 23",
+  "rating": 2.5,
+  "convenience": 3,
+  "security": 3,
+  "functionality": 5,
+  "comment": "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+ },
+ {
+  "id": 731,
+  "name": "Ангар 23",
+  "rating": 4.7,
+  "convenience": 4,
+  "security": 3,
+  "functionality": 4,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 787,
+  "name": "Ангар 23",
+  "rating": 3.9,
+  "convenience": 5,
+  "security": 3,
+  "functionality": 3,
+  "comment": "Это здание прекрасно вписывается в окружающий ландшафт."
+ },
+ {
+  "id": 868,
+  "name": "Ангар 23",
+  "rating": 1.7,
+  "convenience": 2,
+  "security": 3,
+  "functionality": 2,
+  "comment": "Мне нравится дизайн этого здания."
+ },
+ {
+  "id": 933,
+  "name": "Ангар 23",
+  "rating": 1.2,
+  "convenience": 3,
+  "security": 3,
+  "functionality": 4,
+  "comment": "Это здание является примером функционального дизайна."
+ },
+ {
+  "id": 1158,
+  "name": "Ангар 23",
+  "rating": 0.5,
+  "convenience": 3,
+  "security": 3,
+  "functionality": 4,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 1820,
+  "name": "Ангар 23",
+  "rating": 4.6,
+  "convenience": 2,
+  "security": 3,
+  "functionality": 3,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 1886,
+  "name": "Ангар 23",
+  "rating": 1.7,
+  "convenience": 5,
+  "security": 3,
+  "functionality": 2,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 2112,
+  "name": "Ангар 23",
+  "rating": 3.9,
+  "convenience": 1,
+  "security": 3,
+  "functionality": 2,
+  "comment": "Это здание построено из стандартных строительных материалов."
+ },
+ {
+  "id": 2219,
+  "name": "Ангар 23",
+  "rating": 4.7,
+  "convenience": 1,
+  "security": 3,
+  "functionality": 1,
+  "comment": "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+ },
+ {
+  "id": 2748,
+  "name": "Ангар 23",
+  "rating": 3.9,
+  "convenience": 2,
+  "security": 3,
+  "functionality": 4,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 3193,
+  "name": "Ангар 23",
+  "rating": 1.4,
+  "convenience": 2,
+  "security": 3,
+  "functionality": 3,
+  "comment": "Это здание является примером функционального дизайна."
+ },
+ {
+  "id": 3319,
+  "name": "Ангар 23",
+  "rating": 2.8,
+  "convenience": 2,
+  "security": 3,
+  "functionality": 3,
+  "comment": "Это великолепное здание!"
+ },
+ {
+  "id": 3820,
+  "name": "Ангар 23",
+  "rating": 3.2,
+  "convenience": 1,
+  "security": 3,
+  "functionality": 2,
+  "comment": "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+ },
+ {
+  "id": 3999,
+  "name": "Ангар 23",
+  "rating": 4.3,
+  "convenience": 1,
+  "security": 3,
+  "functionality": 3,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 4163,
+  "name": "Ангар 23",
+  "rating": 0.7,
+  "convenience": 2,
+  "security": 3,
+  "functionality": 2,
+  "comment": "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+ },
+ {
+  "id": 4330,
+  "name": "Ангар 23",
+  "rating": 3.9,
+  "convenience": 5,
+  "security": 3,
+  "functionality": 4,
+  "comment": "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+ },
+ {
+  "id": 4362,
+  "name": "Ангар 23",
+  "rating": 4.5,
+  "convenience": 1,
+  "security": 3,
+  "functionality": 4,
+  "comment": "Это здание расположено в удобном месте, рядом с транспортными магистралями и инфраструктурой."
+ },
+ {
+  "id": 389,
+  "name": "Ангар 23",
+  "rating": 4.7,
+  "convenience": 1,
+  "security": 4,
+  "functionality": 3,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 441,
+  "name": "Ангар 23",
+  "rating": 1.5,
+  "convenience": 4,
+  "security": 4,
+  "functionality": 4,
+  "comment": "Мне нравится дизайн этого здания."
+ },
+ {
+  "id": 470,
+  "name": "Ангар 23",
+  "rating": 0.5,
+  "convenience": 1,
+  "security": 4,
+  "functionality": 1,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 713,
+  "name": "Ангар 23",
+  "rating": 2.8,
+  "convenience": 5,
+  "security": 4,
+  "functionality": 2,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 1757,
+  "name": "Ангар 23",
+  "rating": 1.0,
+  "convenience": 2,
+  "security": 4,
+  "functionality": 2,
+  "comment": "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+ },
+ {
+  "id": 2215,
+  "name": "Ангар 23",
+  "rating": 4.3,
+  "convenience": 1,
+  "security": 4,
+  "functionality": 4,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 2848,
+  "name": "Ангар 23",
+  "rating": 1.3,
+  "convenience": 5,
+  "security": 4,
+  "functionality": 5,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 3269,
+  "name": "Ангар 23",
+  "rating": 0.5,
+  "convenience": 5,
+  "security": 4,
+  "functionality": 2,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 3283,
+  "name": "Ангар 23",
+  "rating": 2.1,
+  "convenience": 3,
+  "security": 4,
+  "functionality": 5,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 3291,
+  "name": "Ангар 23",
+  "rating": 2.7,
+  "convenience": 5,
+  "security": 4,
+  "functionality": 2,
+  "comment": "Это здание расположено в удобном месте, рядом с транспортными магистралями и инфраструктурой."
+ },
+ {
+  "id": 3745,
+  "name": "Ангар 23",
+  "rating": 1.0,
+  "convenience": 1,
+  "security": 4,
+  "functionality": 5,
+  "comment": "Мне нравится дизайн этого здания."
+ },
+ {
+  "id": 3769,
+  "name": "Ангар 23",
+  "rating": 4.0,
+  "convenience": 1,
+  "security": 4,
+  "functionality": 3,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 4066,
+  "name": "Ангар 23",
+  "rating": 3.0,
+  "convenience": 4,
+  "security": 4,
+  "functionality": 3,
+  "comment": "Это здание очень функционально."
+ },
+ {
+  "id": 4097,
+  "name": "Ангар 23",
+  "rating": 3.9,
+  "convenience": 3,
+  "security": 4,
+  "functionality": 4,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 4240,
+  "name": "Ангар 23",
+  "rating": 4.3,
+  "convenience": 3,
+  "security": 4,
+  "functionality": 4,
+  "comment": "Это здание очень функционально."
+ },
+ {
+  "id": 12,
+  "name": "Ангар 23",
+  "rating": 3.9,
+  "convenience": 1,
+  "security": 5,
+  "functionality": 3,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 471,
+  "name": "Ангар 23",
+  "rating": 1.6,
+  "convenience": 5,
+  "security": 5,
+  "functionality": 5,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 858,
+  "name": "Ангар 23",
+  "rating": 0.1,
+  "convenience": 3,
+  "security": 5,
+  "functionality": 4,
+  "comment": "Это здание является примером функционального дизайна."
+ },
+ {
+  "id": 864,
+  "name": "Ангар 23",
+  "rating": 0.5,
+  "convenience": 5,
+  "security": 5,
+  "functionality": 3,
+  "comment": "Это здание расположено в удобном месте, рядом с транспортными магистралями и инфраструктурой."
+ },
+ {
+  "id": 905,
+  "name": "Ангар 23",
+  "rating": 4.6,
+  "convenience": 5,
+  "security": 5,
+  "functionality": 2,
+  "comment": "Это здание имеет стандартную конструкцию."
+ },
+ {
+  "id": 1112,
+  "name": "Ангар 23",
+  "rating": 2.6,
+  "convenience": 4,
+  "security": 5,
+  "functionality": 5,
+  "comment": "У этого здания отличная архитектура."
+ },
+ {
+  "id": 1525,
+  "name": "Ангар 23",
+  "rating": 4.8,
+  "convenience": 1,
+  "security": 5,
+  "functionality": 3,
+  "comment": "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+ },
+ {
+  "id": 1583,
+  "name": "Ангар 23",
+  "rating": 3.1,
+  "convenience": 4,
+  "security": 5,
+  "functionality": 2,
+  "comment": "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+ },
+ {
+  "id": 1739,
+  "name": "Ангар 23",
+  "rating": 0.1,
+  "convenience": 2,
+  "security": 5,
+  "functionality": 4,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 1779,
+  "name": "Ангар 23",
+  "rating": 2.6,
+  "convenience": 2,
+  "security": 5,
+  "functionality": 5,
+  "comment": "У этого здания отличная архитектура."
+ },
+ {
+  "id": 2043,
+  "name": "Ангар 23",
+  "rating": 1.4,
+  "convenience": 2,
+  "security": 5,
+  "functionality": 1,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 2222,
+  "name": "Ангар 23",
+  "rating": 3.0,
+  "convenience": 3,
+  "security": 5,
+  "functionality": 4,
+  "comment": "Это здание является примером функционального дизайна."
+ },
+ {
+  "id": 2807,
+  "name": "Ангар 23",
+  "rating": 3.4,
+  "convenience": 5,
+  "security": 5,
+  "functionality": 2,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 2898,
+  "name": "Ангар 23",
+  "rating": 2.9,
+  "convenience": 2,
+  "security": 5,
+  "functionality": 4,
+  "comment": "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+ },
+ {
+  "id": 3474,
+  "name": "Ангар 23",
+  "rating": 3.4,
+  "convenience": 5,
+  "security": 5,
+  "functionality": 5,
+  "comment": "Это здание не имеет особых архитектурных особенностей."
+ },
+ {
+  "id": 3521,
+  "name": "Ангар 23",
+  "rating": 1.6,
+  "convenience": 4,
+  "security": 5,
+  "functionality": 5,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 3592,
+  "name": "Ангар 23",
+  "rating": 0.7,
+  "convenience": 3,
+  "security": 5,
+  "functionality": 4,
+  "comment": "Это здание построено из стандартных строительных материалов."
+ },
+ {
+  "id": 3713,
+  "name": "Ангар 23",
+  "rating": 4.2,
+  "convenience": 3,
+  "security": 5,
+  "functionality": 5,
+  "comment": "Это здание представляет собой типичный образец современной архитектуры."
+ },
+ {
+  "id": 3751,
+  "name": "Ангар 23",
+  "rating": 1.4,
+  "convenience": 4,
+  "security": 5,
+  "functionality": 1,
+  "comment": "Это здание является примером функционального дизайна."
+ }
+]

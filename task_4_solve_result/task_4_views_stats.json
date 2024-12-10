@@ -1,0 +1,34 @@
+[
+ {
+  "category": null,
+  "count": 5,
+  "sum_views": 207934,
+  "min_views": 4254,
+  "max_views": 80424,
+  "avg_views": 41586.8
+ },
+ {
+  "category": "cosmetics",
+  "count": 17,
+  "sum_views": 910823,
+  "min_views": 2461,
+  "max_views": 96591,
+  "avg_views": 53577.82352941176
+ },
+ {
+  "category": "fruit",
+  "count": 14,
+  "sum_views": 773322,
+  "min_views": 3854,
+  "max_views": 96909,
+  "avg_views": 55237.28571428572
+ },
+ {
+  "category": "tools",
+  "count": 14,
+  "sum_views": 685169,
+  "min_views": 817,
+  "max_views": 95943,
+  "avg_views": 48940.642857142855
+ }
+]
