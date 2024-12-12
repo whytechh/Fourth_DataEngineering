@@ -1,0 +1,72 @@
+[
+ {
+  "book_id": 4640799,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 4.569060773480663,
+  "reviewers": 8145
+ },
+ {
+  "book_id": 2402163,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 4.689466783216783,
+  "reviewers": 4576
+ },
+ {
+  "book_id": 3046572,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 4.658038825286212,
+  "reviewers": 4018
+ },
+ {
+  "book_id": 2809203,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 4.491006711409396,
+  "reviewers": 3725
+ },
+ {
+  "book_id": 41335427,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 4.64261744966443,
+  "reviewers": 3576
+ },
+ {
+  "book_id": 3078186,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 4.018895887365691,
+  "reviewers": 2699
+ },
+ {
+  "book_id": 3295655,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 3.8388297872340424,
+  "reviewers": 1880
+ },
+ {
+  "book_id": 3204327,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 4.182544560540872,
+  "reviewers": 1627
+ },
+ {
+  "book_id": 2977727,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 3.900656814449918,
+  "reviewers": 1218
+ },
+ {
+  "book_id": 1782584,
+  "min_rating": 1,
+  "max_rating": 5,
+  "avg_rating": 4.342644320297952,
+  "reviewers": 1074
+ }
+]

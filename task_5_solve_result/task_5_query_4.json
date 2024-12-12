@@ -1,0 +1,502 @@
+[
+ {
+  "authors": "J.K. Rowling",
+  "avg_rating": 4.605698835274542,
+  "reviewers": 13605
+ },
+ {
+  "authors": "Paulo Coelho",
+  "avg_rating": 3.7094668117519043,
+  "reviewers": 8874
+ },
+ {
+  "authors": "Jane Austen",
+  "avg_rating": 4.230769230769231,
+  "reviewers": 7563
+ },
+ {
+  "authors": "Harper Lee",
+  "avg_rating": 4.541106551577756,
+  "reviewers": 7067
+ },
+ {
+  "authors": "F. Scott Fitzgerald",
+  "avg_rating": 3.880626824396989,
+  "reviewers": 6468
+ },
+ {
+  "authors": "Dan Brown",
+  "avg_rating": 3.6709882259558144,
+  "reviewers": 6393
+ },
+ {
+  "authors": "J.R.R. Tolkien",
+  "avg_rating": 4.270387466778571,
+  "reviewers": 6267
+ },
+ {
+  "authors": "J.D. Salinger",
+  "avg_rating": 3.5590176515732925,
+  "reviewers": 6248
+ },
+ {
+  "authors": "George Orwell, George Orwell",
+  "avg_rating": 4.150462962962963,
+  "reviewers": 6048
+ },
+ {
+  "authors": "Lois Lowry",
+  "avg_rating": 4.098610413527541,
+  "reviewers": 5973
+ },
+ {
+  "authors": "John Steinbeck",
+  "avg_rating": 4.079355608591886,
+  "reviewers": 5740
+ },
+ {
+  "authors": "Stephen King",
+  "avg_rating": 4.121526277897768,
+  "reviewers": 5384
+ },
+ {
+  "authors": "Mark Haddon",
+  "avg_rating": 3.815705469248776,
+  "reviewers": 4625
+ },
+ {
+  "authors": "George Orwell",
+  "avg_rating": 4.195229272811487,
+  "reviewers": 4279
+ },
+ {
+  "authors": "Charles Dickens",
+  "avg_rating": 4.026366149266425,
+  "reviewers": 4273
+ },
+ {
+  "authors": "Kurt Vonnegut Jr.",
+  "avg_rating": 3.942745741842807,
+  "reviewers": 4099
+ },
+ {
+  "authors": "Bill Bryson",
+  "avg_rating": 3.854239256678281,
+  "reviewers": 4095
+ },
+ {
+  "authors": "Cormac McCarthy",
+  "avg_rating": 3.8447937131630647,
+  "reviewers": 4072
+ },
+ {
+  "authors": "Douglas Adams",
+  "avg_rating": 3.932275541795666,
+  "reviewers": 4051
+ },
+ {
+  "authors": "Neil Gaiman",
+  "avg_rating": 3.9093904448105437,
+  "reviewers": 3945
+ },
+ {
+  "authors": "Nicholas Sparks",
+  "avg_rating": 3.8572307692307692,
+  "reviewers": 3944
+ },
+ {
+  "authors": "Yann Martel",
+  "avg_rating": 3.8493647912885662,
+  "reviewers": 3857
+ },
+ {
+  "authors": "Jeannette Walls",
+  "avg_rating": 4.2884464238931095,
+  "reviewers": 3817
+ },
+ {
+  "authors": "Mitch Albom",
+  "avg_rating": 4.067632850241546,
+  "reviewers": 3807
+ },
+ {
+  "authors": "Charlotte Bronte",
+  "avg_rating": 4.325555555555556,
+  "reviewers": 3600
+ },
+ {
+  "authors": "Gabriel Garcia Marquez",
+  "avg_rating": 3.681016042780749,
+  "reviewers": 3520
+ },
+ {
+  "authors": "Ernest Hemingway",
+  "avg_rating": 3.6844229217110573,
+  "reviewers": 3474
+ },
+ {
+  "authors": "Max Brooks",
+  "avg_rating": 3.85209779655901,
+  "reviewers": 3313
+ },
+ {
+  "authors": "Kazuo Ishiguro",
+  "avg_rating": 3.689193496971629,
+  "reviewers": 3137
+ },
+ {
+  "authors": "Carlos Ruiz Zafon",
+  "avg_rating": 4.2820012995451595,
+  "reviewers": 3078
+ },
+ {
+  "authors": "Ken Follett",
+  "avg_rating": 4.004581901489118,
+  "reviewers": 3044
+ },
+ {
+  "authors": "John Grisham",
+  "avg_rating": 3.5903837263060563,
+  "reviewers": 3043
+ },
+ {
+  "authors": "Roald Dahl",
+  "avg_rating": 4.132429614181439,
+  "reviewers": 3016
+ },
+ {
+  "authors": "Ayn Rand",
+  "avg_rating": 3.5898673100120626,
+  "reviewers": 3012
+ },
+ {
+  "authors": "Emily Bronte",
+  "avg_rating": 3.603582291314633,
+  "reviewers": 2959
+ },
+ {
+  "authors": "Haruki Murakami",
+  "avg_rating": 3.963373345644814,
+  "reviewers": 2862
+ },
+ {
+  "authors": "Janet Evanovich",
+  "avg_rating": 3.9131895332390383,
+  "reviewers": 2860
+ },
+ {
+  "authors": "David Sedaris",
+  "avg_rating": 3.6556701030927834,
+  "reviewers": 2833
+ },
+ {
+  "authors": "Jon Krakauer",
+  "avg_rating": 3.92175957018133,
+  "reviewers": 2762
+ },
+ {
+  "authors": "William Shakespeare",
+  "avg_rating": 4.072463768115942,
+  "reviewers": 2742
+ },
+ {
+  "authors": "Aldous Huxley",
+  "avg_rating": 3.7700851536467974,
+  "reviewers": 2701
+ },
+ {
+  "authors": "Ian McEwan",
+  "avg_rating": 3.5604659129838985,
+  "reviewers": 2629
+ },
+ {
+  "authors": "William Golding",
+  "avg_rating": 3.5447932618683002,
+  "reviewers": 2612
+ },
+ {
+  "authors": "Arthur Golden",
+  "avg_rating": 4.126491646778043,
+  "reviewers": 2514
+ },
+ {
+  "authors": "Oscar Wilde",
+  "avg_rating": 4.054347826086956,
+  "reviewers": 2392
+ },
+ {
+  "authors": "Jonathan Safran Foer",
+  "avg_rating": 3.9253479544495993,
+  "reviewers": 2371
+ },
+ {
+  "authors": "Elie Wiesel",
+  "avg_rating": 4.472649572649573,
+  "reviewers": 2340
+ },
+ {
+  "authors": "Vladimir Nabokov",
+  "avg_rating": 3.8199052132701423,
+  "reviewers": 2296
+ },
+ {
+  "authors": "Jeffrey Eugenides",
+  "avg_rating": 4.042591753511554,
+  "reviewers": 2207
+ },
+ {
+  "authors": "Sylvia Plath",
+  "avg_rating": 3.96526508226691,
+  "reviewers": 2188
+ },
+ {
+  "authors": "Alexandre Dumas",
+  "avg_rating": 4.3689639006094705,
+  "reviewers": 2039
+ },
+ {
+  "authors": "Sophie Kinsella",
+  "avg_rating": 3.518905293482175,
+  "reviewers": 2004
+ },
+ {
+  "authors": "Orson Scott Card",
+  "avg_rating": 3.947697111631538,
+  "reviewers": 1978
+ },
+ {
+  "authors": "Neal Stephenson",
+  "avg_rating": 3.782608695652174,
+  "reviewers": 1974
+ },
+ {
+  "authors": "Louisa May Alcott",
+  "avg_rating": 4.115053218449062,
+  "reviewers": 1973
+ },
+ {
+  "authors": "Frances Hodgson Burnett",
+  "avg_rating": 4.331103678929765,
+  "reviewers": 1959
+ },
+ {
+  "authors": "Fyodor Dostoyevsky",
+  "avg_rating": 4.2007972097658195,
+  "reviewers": 1901
+ },
+ {
+  "authors": "Diana Gabaldon",
+  "avg_rating": 4.147532188841201,
+  "reviewers": 1864
+ },
+ {
+  "authors": "Barbara Kingsolver",
+  "avg_rating": 4.116052060737527,
+  "reviewers": 1844
+ },
+ {
+  "authors": "John Irving",
+  "avg_rating": 4.080652904464714,
+  "reviewers": 1832
+ },
+ {
+  "authors": "L.M. Montgomery",
+  "avg_rating": 4.465909090909091,
+  "reviewers": 1818
+ },
+ {
+  "authors": "Kim Edwards",
+  "avg_rating": 3.2269662921348314,
+  "reviewers": 1780
+ },
+ {
+  "authors": "George R.R. Martin",
+  "avg_rating": 4.1902082160945415,
+  "reviewers": 1777
+ },
+ {
+  "authors": "Michael Crichton",
+  "avg_rating": 3.449527598209846,
+  "reviewers": 1704
+ },
+ {
+  "authors": "Ann Patchett",
+  "avg_rating": 3.892898719441211,
+  "reviewers": 1649
+ },
+ {
+  "authors": "Chuck Palahniuk",
+  "avg_rating": 4.018960244648318,
+  "reviewers": 1635
+ },
+ {
+  "authors": "Libba Bray",
+  "avg_rating": 3.4823310601363917,
+  "reviewers": 1613
+ },
+ {
+  "authors": "H.G. Wells",
+  "avg_rating": 3.7658592848904267,
+  "reviewers": 1612
+ },
+ {
+  "authors": "Leo Tolstoy",
+  "avg_rating": 4.009726443768997,
+  "reviewers": 1602
+ },
+ {
+  "authors": "Lisa See",
+  "avg_rating": 4.067488643737833,
+  "reviewers": 1541
+ },
+ {
+  "authors": "Anita Diamant",
+  "avg_rating": 4.096816976127321,
+  "reviewers": 1508
+ },
+ {
+  "authors": "Diana Wynne Jones",
+  "avg_rating": 4.269750889679715,
+  "reviewers": 1405
+ },
+ {
+  "authors": "Marjane Satrapi",
+  "avg_rating": 4.159010600706714,
+  "reviewers": 1390
+ },
+ {
+  "authors": "Alexander McCall Smith",
+  "avg_rating": 3.723992784125075,
+  "reviewers": 1388
+ },
+ {
+  "authors": "Steven D. Levitt, Stephen J. Dubner",
+  "avg_rating": 3.7440347071583515,
+  "reviewers": 1383
+ },
+ {
+  "authors": "Dave Eggers",
+  "avg_rating": 3.4641350210970465,
+  "reviewers": 1367
+ },
+ {
+  "authors": "Joan Didion",
+  "avg_rating": 3.7683098591549298,
+  "reviewers": 1359
+ },
+ {
+  "authors": "Arthur Conan Doyle",
+  "avg_rating": 4.117966101694916,
+  "reviewers": 1352
+ },
+ {
+  "authors": "Philip K. Dick",
+  "avg_rating": 3.902081727062452,
+  "reviewers": 1297
+ },
+ {
+  "authors": "Mark Twain",
+  "avg_rating": 3.8652482269503547,
+  "reviewers": 1269
+ },
+ {
+  "authors": "Patrick Suskind",
+  "avg_rating": 3.900656814449918,
+  "reviewers": 1218
+ },
+ {
+  "authors": "Malcolm Gladwell",
+  "avg_rating": 3.753538717735221,
+  "reviewers": 1201
+ },
+ {
+  "authors": "Nicole Krauss",
+  "avg_rating": 3.912310286677909,
+  "reviewers": 1186
+ },
+ {
+  "authors": "Jose Saramago",
+  "avg_rating": 3.8948261238337576,
+  "reviewers": 1179
+ },
+ {
+  "authors": "Arundhati Roy",
+  "avg_rating": 3.843003412969283,
+  "reviewers": 1172
+ },
+ {
+  "authors": "Wilkie Collins",
+  "avg_rating": 4.008019246190858,
+  "reviewers": 1163
+ },
+ {
+  "authors": "Viktor E. Frankl",
+  "avg_rating": 4.426229508196721,
+  "reviewers": 1159
+ },
+ {
+  "authors": "James Frey",
+  "avg_rating": 3.410552349546579,
+  "reviewers": 1129
+ },
+ {
+  "authors": "Spencer Johnson",
+  "avg_rating": 3.472,
+  "reviewers": 1125
+ },
+ {
+  "authors": "Amy Tan",
+  "avg_rating": 3.7844364937388195,
+  "reviewers": 1095
+ },
+ {
+  "authors": "Michael Chabon",
+  "avg_rating": 4.142725598526703,
+  "reviewers": 1086
+ },
+ {
+  "authors": "Nick Hornby",
+  "avg_rating": 3.3825789923142615,
+  "reviewers": 1077
+ },
+ {
+  "authors": "Norton Juster",
+  "avg_rating": 4.342644320297952,
+  "reviewers": 1074
+ },
+ {
+  "authors": "Zadie Smith",
+  "avg_rating": 3.510917030567686,
+  "reviewers": 1069
+ },
+ {
+  "authors": "Tracy Chevalier",
+  "avg_rating": 3.8,
+  "reviewers": 1065
+ },
+ {
+  "authors": "Joseph Conrad",
+  "avg_rating": 3.1177024482109226,
+  "reviewers": 1062
+ },
+ {
+  "authors": "Milan Kundera",
+  "avg_rating": 3.899151743638077,
+  "reviewers": 1061
+ },
+ {
+  "authors": "Toni Morrison",
+  "avg_rating": 3.8735849056603775,
+  "reviewers": 1060
+ },
+ {
+  "authors": "David Foster Wallace",
+  "avg_rating": 4.018755328218244,
+  "reviewers": 1058
+ },
+ {
+  "authors": "Geraldine Brooks",
+  "avg_rating": 3.8797709923664123,
+  "reviewers": 1048
+ }
+]

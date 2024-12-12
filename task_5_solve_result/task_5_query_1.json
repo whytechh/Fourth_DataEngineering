@@ -1,0 +1,152 @@
+[
+ {
+  "book_id": 3464264,
+  "title": "Anne of Green Gables (Anne of Green Gables, #1)",
+  "avg_rating": 4.496680748340374
+ },
+ {
+  "book_id": 391568,
+  "title": "The Count of Monte Cristo",
+  "avg_rating": 4.464419475655431
+ },
+ {
+  "book_id": 839692,
+  "title": "Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",
+  "avg_rating": 4.32013201320132
+ },
+ {
+  "book_id": 2966408,
+  "title": "Animal Farm / 1984",
+  "avg_rating": 4.251572327044025
+ },
+ {
+  "book_id": 98895,
+  "title": "One Fish, Two Fish, Red Fish, Blue Fish",
+  "avg_rating": 4.221052631578948
+ },
+ {
+  "book_id": 2207778,
+  "title": "Animal Farm",
+  "avg_rating": 4.194759385235575
+ },
+ {
+  "book_id": 3204327,
+  "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+  "avg_rating": 4.182544560540872
+ },
+ {
+  "book_id": 59082,
+  "title": "Cry, the Beloved Country",
+  "avg_rating": 4.157534246575342
+ },
+ {
+  "book_id": 816449,
+  "title": "The Thorn Birds",
+  "avg_rating": 4.139573070607553
+ },
+ {
+  "book_id": 4639714,
+  "title": "Black Beauty",
+  "avg_rating": 4.136919315403423
+ },
+ {
+  "book_id": 2113248,
+  "title": "The Drawing of the Three",
+  "avg_rating": 4.1359593392630245
+ },
+ {
+  "book_id": 1303710,
+  "title": "The Woman in White",
+  "avg_rating": 4.086142322097379
+ },
+ {
+  "book_id": 1505465,
+  "title": "Ballet Shoes (Shoes, #1)",
+  "avg_rating": 4.069182389937107
+ },
+ {
+  "book_id": 2956372,
+  "title": "A Tale of Two Cities",
+  "avg_rating": 4.036316472114137
+ },
+ {
+  "book_id": 750558,
+  "title": "Wizard and Glass",
+  "avg_rating": 4.0199203187251
+ },
+ {
+  "book_id": 4242,
+  "title": "The View from Saturday",
+  "avg_rating": 3.9567099567099566
+ },
+ {
+  "book_id": 2561472,
+  "title": "The Five People You Meet in Heaven",
+  "avg_rating": 3.9502332814930017
+ },
+ {
+  "book_id": 1005422,
+  "title": "Tears of the Giraffe (No. 1 Ladies' Detective Agency, #2)",
+  "avg_rating": 3.9473684210526314
+ },
+ {
+  "book_id": 1098725,
+  "title": "The Lost World (Professor Challenger, #1)",
+  "avg_rating": 3.924778761061947
+ },
+ {
+  "book_id": 141228,
+  "title": "Suzanne's Diary for Nicholas",
+  "avg_rating": 3.9158316633266534
+ },
+ {
+  "book_id": 1439,
+  "title": "number9dream",
+  "avg_rating": 3.884393063583815
+ },
+ {
+  "book_id": 2744160,
+  "title": "Crow Lake",
+  "avg_rating": 3.8636363636363638
+ },
+ {
+  "book_id": 121842,
+  "title": "Don Quixote",
+  "avg_rating": 3.8427947598253276
+ },
+ {
+  "book_id": 3295655,
+  "title": "One Hundred Years of Solitude",
+  "avg_rating": 3.8388297872340424
+ },
+ {
+  "book_id": 3360164,
+  "title": "Emma",
+  "avg_rating": 3.7803320561941254
+ },
+ {
+  "book_id": 1057468,
+  "title": "Vanity Fair",
+  "avg_rating": 3.753623188405797
+ },
+ {
+  "book_id": 1045067,
+  "title": "Postmortem (Kay Scarpetta, #1)",
+  "avg_rating": 3.7528735632183907
+ },
+ {
+  "book_id": 1950213,
+  "title": "Eleven Minutes",
+  "avg_rating": 3.6786600496277915
+ },
+ {
+  "book_id": 6751955,
+  "title": "Hard Times",
+  "avg_rating": 3.58273381294964
+ },
+ {
+  "book_id": 986234,
+  "title": "The Canterbury Tales",
+  "avg_rating": 3.5674931129476586
+ }
+]
